@@ -1,0 +1,7 @@
+{
+    "alunos": [
+        {"id": "1", "matricula": "111", "nome": "aluno 1"},
+        {"id": "2", "matricula": "222", "nome": "aluno 2"},
+        {"id": "3", "matricula": "333", "nome": "aluno 3"}
+    ]
+}
