@@ -1,7 +1,24 @@
 {
-    "alunos": [
-        {"id": "1", "matricula": "111", "nome": "aluno 1"},
-        {"id": "2", "matricula": "222", "nome": "aluno 2"},
-        {"id": "3", "matricula": "333", "nome": "aluno 3"}
-    ]
+  "alunos": [
+    {
+      "id": "1",
+      "matricula": "111",
+      "nome": "aluno 1"
+    },
+    {
+      "id": "2",
+      "matricula": "222",
+      "nome": "aluno 2"
+    },
+    {
+      "id": "4",
+      "nome": "Aluno NOVO",
+      "matricula": "4444"
+    },
+    {
+      "id": "4",
+      "nome": "Aluno 4",
+      "matricula": "4444"
+    }
+  ]
 }
